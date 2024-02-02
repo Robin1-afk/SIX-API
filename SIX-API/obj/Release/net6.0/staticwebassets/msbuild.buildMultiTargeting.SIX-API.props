@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SIX-API.props" />
+</Project>

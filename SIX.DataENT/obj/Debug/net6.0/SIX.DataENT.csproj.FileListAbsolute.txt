@@ -1,0 +1,12 @@
+C:\Users\rovin\source\repos\SIX-API\SIX.DataENT\bin\Debug\net6.0\SIX.DataENT.deps.json
+C:\Users\rovin\source\repos\SIX-API\SIX.DataENT\bin\Debug\net6.0\SIX.DataENT.dll
+C:\Users\rovin\source\repos\SIX-API\SIX.DataENT\bin\Debug\net6.0\SIX.DataENT.pdb
+C:\Users\rovin\source\repos\SIX-API\SIX.DataENT\obj\Debug\net6.0\SIX.DataENT.csproj.AssemblyReference.cache
+C:\Users\rovin\source\repos\SIX-API\SIX.DataENT\obj\Debug\net6.0\SIX.DataENT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rovin\source\repos\SIX-API\SIX.DataENT\obj\Debug\net6.0\SIX.DataENT.AssemblyInfoInputs.cache
+C:\Users\rovin\source\repos\SIX-API\SIX.DataENT\obj\Debug\net6.0\SIX.DataENT.AssemblyInfo.cs
+C:\Users\rovin\source\repos\SIX-API\SIX.DataENT\obj\Debug\net6.0\SIX.DataENT.csproj.CoreCompileInputs.cache
+C:\Users\rovin\source\repos\SIX-API\SIX.DataENT\obj\Debug\net6.0\SIX.DataENT.dll
+C:\Users\rovin\source\repos\SIX-API\SIX.DataENT\obj\Debug\net6.0\refint\SIX.DataENT.dll
+C:\Users\rovin\source\repos\SIX-API\SIX.DataENT\obj\Debug\net6.0\SIX.DataENT.pdb
+C:\Users\rovin\source\repos\SIX-API\SIX.DataENT\obj\Debug\net6.0\ref\SIX.DataENT.dll

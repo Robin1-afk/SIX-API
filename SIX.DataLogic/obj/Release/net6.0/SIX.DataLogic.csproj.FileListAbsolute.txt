@@ -1,0 +1,15 @@
+C:\Users\rovin\source\repos\SIX-API\SIX.DataLogic\bin\Release\net6.0\SIX.DataLogic.deps.json
+C:\Users\rovin\source\repos\SIX-API\SIX.DataLogic\bin\Release\net6.0\SIX.DataLogic.dll
+C:\Users\rovin\source\repos\SIX-API\SIX.DataLogic\bin\Release\net6.0\SIX.DataLogic.pdb
+C:\Users\rovin\source\repos\SIX-API\SIX.DataLogic\bin\Release\net6.0\SIX.DataENT.dll
+C:\Users\rovin\source\repos\SIX-API\SIX.DataLogic\bin\Release\net6.0\SIX.DataENT.pdb
+C:\Users\rovin\source\repos\SIX-API\SIX.DataLogic\obj\Release\net6.0\SIX.DataLogic.csproj.AssemblyReference.cache
+C:\Users\rovin\source\repos\SIX-API\SIX.DataLogic\obj\Release\net6.0\SIX.DataLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rovin\source\repos\SIX-API\SIX.DataLogic\obj\Release\net6.0\SIX.DataLogic.AssemblyInfoInputs.cache
+C:\Users\rovin\source\repos\SIX-API\SIX.DataLogic\obj\Release\net6.0\SIX.DataLogic.AssemblyInfo.cs
+C:\Users\rovin\source\repos\SIX-API\SIX.DataLogic\obj\Release\net6.0\SIX.DataLogic.csproj.CoreCompileInputs.cache
+C:\Users\rovin\source\repos\SIX-API\SIX.DataLogic\obj\Release\net6.0\SIX.DataLogic.csproj.CopyComplete
+C:\Users\rovin\source\repos\SIX-API\SIX.DataLogic\obj\Release\net6.0\SIX.DataLogic.dll
+C:\Users\rovin\source\repos\SIX-API\SIX.DataLogic\obj\Release\net6.0\refint\SIX.DataLogic.dll
+C:\Users\rovin\source\repos\SIX-API\SIX.DataLogic\obj\Release\net6.0\SIX.DataLogic.pdb
+C:\Users\rovin\source\repos\SIX-API\SIX.DataLogic\obj\Release\net6.0\ref\SIX.DataLogic.dll
